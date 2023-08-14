@@ -1,0 +1,35 @@
+* {
+    background-color: lightblue;
+    font-family: Optima, sans-serif;
+}
+
+body {
+    width: auto;
+    border: 5px red;
+    padding: 50px;
+    margin: 20px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 75px;
+}
+
+button {
+    text-align: center;
+    display: block;
+    width: 100%;
+    border: transparent;
+    margin: 15px;
+    padding: 10px 20px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+a:link {
+    color: lightblue;
+    background-color: red;
+    text-decoration: none;
+}
